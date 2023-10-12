@@ -1,2 +1,2 @@
-# ISAAC_ROS_Workspace
-UMN Robotics ISAAC ROS Workspace
+# isaac_ros_dev
+The official ISAAC ROS Workspace for UMN Robotics
