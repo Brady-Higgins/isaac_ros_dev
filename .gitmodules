@@ -13,9 +13,6 @@
 [submodule "src/isaac_ros_visual_slam"]
 	path = src/isaac_ros_visual_slam
 	url = git@github.com:NVIDIA-ISAAC-ROS/isaac_ros_visual_slam.git
-[submodule "src/isaac_ros_pose_estimation"]
-	path = src/isaac_ros_pose_estimation
-	url = git@github.com:NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation.git
 [submodule "src/isaac_ros_image_pipeline"]
 	path = src/isaac_ros_image_pipeline
 	url = git@github.com:NVIDIA-ISAAC-ROS/isaac_ros_image_pipeline.git
