@@ -1,0 +1,21 @@
+[submodule "src/isaac_ros_nvblox"]
+	path = src/isaac_ros_nvblox
+	url = git@github.com:GOFIRST-Robotics/isaac_ros_nvblox.git
+[submodule "src/isaac_ros_common"]
+	path = src/isaac_ros_common
+	url = git@github.com:GOFIRST-Robotics/isaac_ros_common.git
+[submodule "src/isaac_ros_apriltag"]
+	path = src/isaac_ros_apriltag
+	url = git@github.com:GOFIRST-Robotics/isaac_ros_apriltag.git
+[submodule "src/isaac_ros_nitros"]
+	path = src/isaac_ros_nitros
+	url = git@github.com:NVIDIA-ISAAC-ROS/isaac_ros_nitros.git
+[submodule "src/isaac_ros_visual_slam"]
+	path = src/isaac_ros_visual_slam
+	url = git@github.com:NVIDIA-ISAAC-ROS/isaac_ros_visual_slam.git
+[submodule "src/isaac_ros_pose_estimation"]
+	path = src/isaac_ros_pose_estimation
+	url = git@github.com:NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation.git
+[submodule "src/isaac_ros_image_pipeline"]
+	path = src/isaac_ros_image_pipeline
+	url = git@github.com:NVIDIA-ISAAC-ROS/isaac_ros_image_pipeline.git
